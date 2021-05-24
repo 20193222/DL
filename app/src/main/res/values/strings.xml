@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DL</string>
+    <string name="todo">TODO</string>
+    <string name="republic_of_n_the_philippines">REPUBLIC OF /n THE PHILIPPINES</string>
+    <string name="department_of_trasportation">DEPARTMENT OF TRASPORTATION</string>
+    <string name="land_transportation_office">LAND TRANSPORTATION OFFICE</string>
+    <string name="non_professional_driver_s_license">NON-PROFESSIONAL DRIVER\'S LICENSE</string>
+</resources>
